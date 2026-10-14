@@ -3,13 +3,17 @@
 Investments es la aplicación de la familia para seguir cuentas, inversiones y gastos. Tus datos se quedan en tu
 ordenador: no se envían a ningún sitio.
 
-Aquí solo están los instaladores. Elige el de tu ordenador:
+Aquí solo están los instaladores. Están en la **[página de la última versión](https://github.com/JGR-0/personal-finances/releases/latest)**:
+ábrela, baja hasta **Assets** y pulsa el archivo de tu ordenador.
 
-| Ordenador | Descarga |
+| Ordenador | Archivo que tienes que descargar |
 |---|---|
-| Mac con chip Apple (M1, M2, M3, M4…) | [Investments-osx-arm64-Setup.pkg](https://github.com/JGR-0/personal-finances/releases/latest/download/Investments-osx-arm64-Setup.pkg) |
-| Mac con procesador Intel | [Investments-osx-x64-Setup.pkg](https://github.com/JGR-0/personal-finances/releases/latest/download/Investments-osx-x64-Setup.pkg) |
-| Windows 10 u 11 | [Investments-win-x64-Setup.exe](https://github.com/JGR-0/personal-finances/releases/latest/download/Investments-win-x64-Setup.exe) |
+| Mac con chip Apple (M1, M2, M3, M4…) | [Investments-osx-arm64-Setup.pkg](https://github.com/JGR-0/personal-finances/releases/latest) |
+| Mac con procesador Intel | [Investments-osx-x64-Setup.pkg](https://github.com/JGR-0/personal-finances/releases/latest) |
+| Windows 10 u 11 | [Investments-win-x64-Setup.exe](https://github.com/JGR-0/personal-finances/releases/latest) |
+
+En esa misma página verás también qué ha cambiado en la versión. Los demás archivos de la lista los usa la aplicación
+para actualizarse: no hace falta descargarlos.
 
 **¿Qué Mac tengo?** Menú Apple () › **Acerca de este Mac**. Si pone **Chip** Apple M…, es la primera fila. Si pone
 **Procesador** Intel, es la segunda.
